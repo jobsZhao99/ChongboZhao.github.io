@@ -4,6 +4,9 @@ author: Chongbo Zhao
 tags: [overview, moonwalk]
 ---
 
+
+![theme logo](../images/CoverPhoto.png)
+
  In our project, we tackled the challenge of helping drones avoid collisions by improving how they perceive their environment. Typically, drones have limited ability to detect obstacles due to restrictions in their sensing range. To solve this, we developed a method that smartly adjusts the drone's sensors to focus on the most risky areas where collisions are likely to happen.[^1]
 
 
