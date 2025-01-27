@@ -81,7 +81,7 @@ This is an image[^4]
 {: data-content="footnotes"}
 
 [^1]: Bena, Ryan M., Chongbo Zhao, and Quan Nguyen. "[Safety-Aware Perception for Autonomous Collision Avoidance in Dynamic Environments][Safety-Aware Perception for Autonomous Collision Avoidance in Dynamic Environments]." IEEE Robotics and Automation Letters (2023). 
-[soopr-website]: https://doi.org/10.48550/arXiv.2403.13929
+[Safety-Aware Perception for Autonomous Collision Avoidance in Dynamic Environments]: https://doi.org/10.48550/arXiv.2403.13929
 [^2]: hey there, don't forget to read all the footnotes!
 [^3]: this is another footnote.
 [^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not; hope that there are no problems but you know sometimes problems arise from nowhere.
